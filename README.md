@@ -1,4 +1,4 @@
 <div align="center">
-  <img height="170cm" src="https://github-readme-stats-88s1.vercel.app/api?username=BrunoValcarenghi&theme=dark&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170cm" src="https://github-readme-stats-88s1.vercel.app/api/top-langs/?username=BrunoValcarenghi&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+  <img height="170cm" src="https://github-readme-stats.shion.dev/api?username=BrunoValcarenghi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170cm" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BrunoValcarenghi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
